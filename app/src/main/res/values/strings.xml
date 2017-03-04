@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="describe">Describe Your Task</string>
+    <string name="priority">Priority</string>
+    <string name="taskName">Task Name</string>
+</resources>
